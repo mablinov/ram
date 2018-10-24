@@ -1,0 +1,4 @@
+l79, l80: replace "LOWER" with "UPPER" on ramb32x1_upper.vhd
+
+ERROR: [DRC 23-20] Rule violation (DXSTAT-2) Cascade output routing - Cell video_pipeline_inst/fb0/ramb64x1_inst_0/lower/RAMB36E1_lower has unsupported CASCADEOUT connectivity: invalid port connection. The signal video_pipeline_inst/fb0/ramb64x1_inst_0/lower/CASCADEA connected to cell pin CASCADEOUTA will not route. RAMB36E1 cascade routing is directional for this architecture and does not use general interconnect. The cascade output from a RAMB36E1 cell must connect directly to the cascade input on a different RAMB36E1 cell. The fanout count must equal 1 and no intermediate logic or logical pin inversions are supported. If the connected cells are placed, the placements must be in adjacent sites with the driver cell in the lower site. Modify the cell placement or the netlist connectivity to fix this unroutable situation.
+

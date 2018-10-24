@@ -1,0 +1,3 @@
+vhdl xil_defaultlib ../../../ram/ramb64x1.vhd
+vhdl xil_defaultlib ../../../ram/ramb64x8.vhd
+

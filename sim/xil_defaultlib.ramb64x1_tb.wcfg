@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="xil_defaultlib.ramb64x1_tb.wdb" id="1">
+         <top_modules>
+            <top_module name="ramb64x1_tb" />
+            <top_module name="vpkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="7481fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="207"></NameColumnWidth>
+      <ValueColumnWidth column_width="63"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject type="logic" fp_name="/ramb64x1_tb/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ramb64x1_tb/addra">
+      <obj_property name="ElementShortName">addra[15:0]</obj_property>
+      <obj_property name="ObjectShortName">addra[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ramb64x1_tb/dia">
+      <obj_property name="ElementShortName">dia</obj_property>
+      <obj_property name="ObjectShortName">dia</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ramb64x1_tb/doa">
+      <obj_property name="ElementShortName">doa</obj_property>
+      <obj_property name="ObjectShortName">doa</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ramb64x1_tb/ena">
+      <obj_property name="ElementShortName">ena</obj_property>
+      <obj_property name="ObjectShortName">ena</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ramb64x1_tb/regcea">
+      <obj_property name="ElementShortName">regcea</obj_property>
+      <obj_property name="ObjectShortName">regcea</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ramb64x1_tb/wea">
+      <obj_property name="ElementShortName">wea</obj_property>
+      <obj_property name="ObjectShortName">wea</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/ramb64x1_tb/addrb">
+      <obj_property name="ElementShortName">addrb[15:0]</obj_property>
+      <obj_property name="ObjectShortName">addrb[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ramb64x1_tb/dib">
+      <obj_property name="ElementShortName">dib</obj_property>
+      <obj_property name="ObjectShortName">dib</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ramb64x1_tb/dob">
+      <obj_property name="ElementShortName">dob</obj_property>
+      <obj_property name="ObjectShortName">dob</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ramb64x1_tb/enb">
+      <obj_property name="ElementShortName">enb</obj_property>
+      <obj_property name="ObjectShortName">enb</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ramb64x1_tb/regceb">
+      <obj_property name="ElementShortName">regceb</obj_property>
+      <obj_property name="ObjectShortName">regceb</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/ramb64x1_tb/web">
+      <obj_property name="ElementShortName">web</obj_property>
+      <obj_property name="ObjectShortName">web</obj_property>
+   </wvobject>
+</wave_config>

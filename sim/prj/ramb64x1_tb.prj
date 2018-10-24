@@ -1,0 +1,5 @@
+vhdl xil_defaultlib ../../ramb32x1_lower.vhd
+vhdl xil_defaultlib ../../ramb32x1_upper.vhd
+vhdl xil_defaultlib ../../ramb64x1.vhd
+
+vhdl xil_defaultlib ../tb/ramb64x1_tb.vhd
